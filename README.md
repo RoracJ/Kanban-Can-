@@ -4,7 +4,7 @@
 
 
 ## Description
-to add authentication with JWT to an existing Kanban board application.
+To add authentication with JWT to an existing Kanban board application.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -21,7 +21,7 @@ npm run start
 npm start:dev
 
 ## Contributing
-make a pull request
+Make a pull request
 
 ## Tests
 npm run test
